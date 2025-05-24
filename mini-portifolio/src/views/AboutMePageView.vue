@@ -84,10 +84,21 @@
           </div>
         </div>
       </div>
-      <div class="bg-gray-500 w-90 h-50">
-        <div>
-          <img src="" alt="">
-          <h6>Cloud & DevOps</h6>
+      <div class="bg-[#292b3e] rounded-lg w-90 h-50">
+        <div class="flex items-start gap-4 pl-5 pt-5 ">
+          <img src="../assets/icons/cloud-computing-data-5-svgrepo-com.svg" alt="" class="w-10 h-10 hover:bg-[#31344a] rounded-lg shadow-md hover:shadow-[#ff4950] hover:border-2 hover:border-[#ff4950]" />
+          <h6 class="text-lg font-bold pt-1.5">Cloud & DevOps</h6>
+        </div>
+        <div class="flex flex-wrap">
+          <div class="flex items-center p-7 px-5 ml-2.5 mt-2.5 size-15 rounded-lg shadow-black-500/50 hover:shadow-[#ff4950] shadow-md hover:border-2 hover:border-[#ff4950]">
+            <img src="../assets/icons/docker-svgrepo-com.svg" alt="" class="w-5 h-5" />
+          </div>
+          <div class="flex items-center p-7 px-5 ml-2.5 mt-2.5 size-15 rounded-lg shadow-black-500/50 hover:shadow-[#ff4950] shadow-md hover:border-2 hover:border-[#ff4950]">
+            <img src="../assets/icons/git-svgrepo-com.svg" alt="" class="w-5 h-5"/>
+          </div>
+          <div class="flex items-center p-7 px-5 ml-2.5 mt-2.5 size-15 rounded-lg shadow-black-500/50 hover:shadow-[#ff4950] shadow-md hover:border-2 hover:border-[#ff4950]">
+            <img src="../assets/icons/linux-svgrepo-com.svg" alt="" class="w-5 h-5"/>
+          </div>
         </div>
       </div>
       <div class="bg-gray-500 w-90 h-50">
