@@ -16,7 +16,9 @@
     </section>
 
     <!-- Formação Acadêmica -->
-    <h1 class="text-4xl text-6xl font-bold text-center mb-6 items-center">Formação Acadêmica</h1>
+    <div>
+      <h1 class="text-4xl text-6xl font-bold text-center mb-6 items-center mt-[300px]">Formação Acadêmica</h1>
+    </div>
     <section class="flex flex-col justify-center items-center p-7">
       <!-- Logo da Unimar -->
       <img src="../assets/img/logo-unimar.png" alt="" class="w-270"/>
@@ -24,31 +26,14 @@
     </section>
     <!-- Habilidades -->
     <div>
-      <h1>Habilidades</h1>
+      <h1 class="text-4xl text-6xl font-bold text-center mb-6 items-center mt-[300px]">Habilidades</h1>
     </div>
-    <div class="bg-gray-500 w-90 h-50">
-      <div>
-        <img src="" alt="">
-        <h6>Desenvolvimento Backend</h6>
       </div>
-    </div>
-    <div class="bg-gray-500 w-90 h-50">
-      <div>
-        <img src="" alt="">
-        <h6>Desenvolvimento Frontend</h6>
       </div>
-    </div>
-    <div class="bg-gray-500 w-90 h-50">
-      <div>
-        <img src="" alt="">
-        <h6>Cloud & DevOps</h6>
       </div>
-    </div>
-    <div class="bg-gray-500 w-90 h-50">
-      <div>
-        <img src="" alt="">
-        <h6>Ferramentas & Tecnologias</h6>
       </div>
-    </div>
+    </section>
   </main>
 </template>
+<script setup lang="ts">
+</script>
