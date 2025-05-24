@@ -7,6 +7,7 @@
       <p>Meu nome é Kennedy Miyake, sou desenvolvedor backend.</p>
       <p>Sou apaixonado por tecnologia desde que me entendo por gente.</p>
       <p>Tenho paixão pela inovação e avanços tecnológicos.</p>
+      <img src="../assets/img/minhafoto.jpeg" alt="" class="size-80"/>
     </div>
     <div>
       <!-- Formação Acadêmica -->
