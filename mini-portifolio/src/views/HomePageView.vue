@@ -3,10 +3,10 @@
 
 <template>
     <main>
-      <div>
-        <p>printf("Hello, World!");</p>
-        <h1>Olá, Eu sou o Kennedy!</h1>
-        <h4>Desenvolvedor Backend</h4>
+      <div class="text-[#fffffc]">
+        <p class="text-1xl">printf("Hello, World!");</p>
+        <h1 class="text-6xl text-[#ff4950] font-bold">Olá, Eu sou o Kennedy!</h1>
+        <h4 class="text-2xl font-medium">Desenvolvedor Backend</h4>
       </div>
       <div>
         <!--barra de clique-->
