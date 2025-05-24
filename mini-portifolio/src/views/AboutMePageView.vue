@@ -1,21 +1,22 @@
 <template>
   <main>
-    <div>
-      <!-- Título -->
-      <h1>Sobre Mim</h1>
-      <!-- Descrição e foto -->
-      <p>Meu nome é Kennedy Miyake, sou desenvolvedor backend.</p>
-      <p>Sou apaixonado por tecnologia desde que me entendo por gente.</p>
-      <p>Tenho paixão pela inovação e avanços tecnológicos.</p>
-      <img src="../assets/img/minhafoto.jpeg" alt="" class="size-80"/>
-    </div>
-    <div>
-      <!-- Formação Acadêmica -->
-      <h1>Formação Acadêmica</h1>
+    <!-- Sobre Mim -->
+    <h1 class="text-4xl text-6xl font-bold text-center mb-6 items-center">Sobre Mim</h1>
+    <section class="flex flex-row justify-center items-center gap-12 p-10">
+      <!-- Descrição Pessoal -->
+      <div class="flex flex-col text-3xl text-[#ff4950] text-bold rounded-2xl mr-50">
+        <p>Meu nome é Kennedy Miyake, sou desenvolvedor backend.</p>
+        <p>Sou apaixonado por tecnologia desde que me entendo por gente.</p>
+        <p>Tenho paixão pela inovação e avanços tecnológicos.</p>
+      </div>
+      <!-- Foto Pessoal -->
+      <div>
+        <img src="../assets/img/minhafoto.jpeg" alt="" class="rounded-2xl w-68 h-68 ml-50" />
+      </div>
+    </section>
+
       <!-- Logo da Unimar -->
-      <img src="" alt=""/>
       <h4>2024/2026</h4>
-    </div>
     <!-- Habilidades -->
     <div>
       <h1>Habilidades</h1>
