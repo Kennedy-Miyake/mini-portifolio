@@ -15,8 +15,13 @@
       </div>
     </section>
 
+    <!-- Formação Acadêmica -->
+    <h1 class="text-4xl text-6xl font-bold text-center mb-6 items-center">Formação Acadêmica</h1>
+    <section class="flex flex-col justify-center items-center p-7">
       <!-- Logo da Unimar -->
-      <h4>2024/2026</h4>
+      <img src="../assets/img/logo-unimar.png" alt="" class="w-270"/>
+      <h4 class="text-2xl text-bold p-7">2024/2026</h4>
+    </section>
     <!-- Habilidades -->
     <div>
       <h1>Habilidades</h1>
