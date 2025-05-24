@@ -11,10 +11,10 @@
 </style>
 <template>
   <main class="flex w-full">
-    <div class="text-[#fffffc] w-auto h-30 bg-gray-500">
-      <p class="text-1xl">printf("Hello, World!");</p>
+    <div class="text-[#fffffc] w-auto ml-auto ml-70 mt-80 h-30">
+      <p class="text-1xl ml-1">printf("Hello, World!");</p>
       <h1 class="text-6xl text-[#ff4950] font-bold">Olá, Eu sou o Kennedy!</h1>
-      <h4 class="text-2xl font-medium">Desenvolvedor Backend</h4>
+      <h4 class="text-2xl font-medium ml-1">Desenvolvedor Backend</h4>
     </div>
     <div class="ml-auto mr-70 mt-45">
       <!--barra de clique-->
