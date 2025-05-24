@@ -3,9 +3,15 @@
     <img src="../assets/icons/bars-svgrepo-com.svg" alt="bars" class="w-8 h-8 cursor-pointer" @click="toggleMenu"/>
     <h1 class="font-bold text-lg text-[#fffffc] justify-center items-center ml-5">Kennedy's Portifolio</h1>
     <div class="flex relative ml-auto space-x-4">
-      <img src="../assets/icons/linkedin-svgrepo-com.svg" alt="linkedin" class="size-8" />
-      <img src="../assets/icons/github-142-svgrepo-com.svg" alt="github" class="size-8" />
-      <img src="../assets/icons/instagram-svgrepo-com.svg" alt="instagram" class="size-8" />
+      <a href="https://www.instagram.com/offmiijin/">
+        <img src="../assets/icons/instagram-svgrepo-com.svg" alt="instagram" class="size-8" />
+      </a>
+      <a href="https://www.linkedin.com/in/kennedy-miyake/">
+        <img src="../assets/icons/linkedin-svgrepo-com.svg" alt="linkedin" class="size-8" />
+      </a>
+      <a href="https://github.com/Kennedy-Miyake">
+        <img src="../assets/icons/github-142-svgrepo-com.svg" alt="github" class="size-8" />
+      </a>
     </div>
 
     <!-- Menu -->
