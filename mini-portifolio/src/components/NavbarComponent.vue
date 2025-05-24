@@ -1,5 +1,5 @@
 <template>
-  <nav class="relative bg-[#ff4950] text-black py-4 px-8 flex">
+  <nav class="relative fixed top-0 w-full bg-[#ff4950] text-black py-4 px-8 flex z-50">
     <img src="../assets/icons/bars-svgrepo-com.svg" alt="bars" class="w-8 h-8 cursor-pointer" @click="toggleMenu"/>
     <h1 class="font-bold text-lg text-[#fffffc] justify-center items-center ml-5">Kennedy's Portifolio</h1>
     <div class="flex relative ml-auto space-x-4">
