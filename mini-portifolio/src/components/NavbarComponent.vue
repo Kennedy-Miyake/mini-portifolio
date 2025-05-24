@@ -9,7 +9,19 @@
 </template>
 
 <script>
+import { ref } from 'vue'
 export default {
+  name: 'NavbarComponent',
+
+  setup() {
+    const isOpen = ref(false);
+
+    function toggleMenu() {
+      isOpen.value = !isOpen.value;
+    }
+    return {
+      isOpen,
+      toggleMenu
     }
   }
 }
