@@ -31,7 +31,7 @@
     <section class="flex flex-row justify-between items-center p-10">
       <div class="bg-[#292b3e] rounded-lg w-90 h-50">
         <div class="flex items-start gap-4 pl-5 pt-5 ">
-          <img src="../assets/icons/database-svgrepo-com.svg" alt="" class="w-10 h-10 bg-[#31344a] rounded-lg shadow-md hover:shadow-[#ff4950] hover:border-2 hover:border-[#ff4950]"/>
+          <img src="../assets/icons/database-svgrepo-com.svg" alt="" class="w-10 h-10 hover:bg-[#31344a] rounded-lg shadow-md hover:shadow-[#ff4950] hover:border-2 hover:border-[#ff4950]"/>
           <h6 class="text-lg font-bold pt-1.5">Desenvolvimento Backend</h6>
         </div>
         <div class="flex flex-wrap">
@@ -60,7 +60,7 @@
       </div>
       <div class="bg-[#292b3e] rounded-lg w-90 h-50">
         <div class="flex items-start gap-4 pl-5 pt-5 ">
-          <img src="../assets/icons/html-coding-svgrepo-com.svg" alt="" class="w-10 h-10 bg-[#31344a] rounded-lg shadow-md hover:shadow-[#ff4950] hover:border-2 hover:border-[#ff4950]" />
+          <img src="../assets/icons/html-coding-svgrepo-com.svg" alt="" class="w-10 h-10 hover:bg-[#31344a] rounded-lg shadow-md hover:shadow-[#ff4950] hover:border-2 hover:border-[#ff4950]" />
           <h6 class="text-lg font-bold pt-1.5">Desenvolvimento Frontend</h6>
         </div>
         <div class="flex flex-wrap">
